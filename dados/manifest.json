@@ -1,11 +1,14 @@
 {
   "competenciaAtual": "2026-07",
+  "proxyUrl": "https://tec1-release-proxy.otavio.workers.dev/proxy",
   "arquivos": [
     {
       "competencia": "2026-07",
       "rotulo": "Julho/2026",
       "arquivo": "tec1-26-07.json",
       "url": "https://github.com/otaviofelisberto0-creator/Radar_tecnico/releases/download/TEC1-26-07/tec1-26-07.json",
+      "proxyUrl": "https://tec1-release-proxy.otavio.workers.dev/release/otaviofelisberto0-creator/Radar_tecnico/TEC1-26-07/tec1-26-07.json",
+      "tamanhoAproximadoMB": 213,
       "ativo": true
     }
   ]
